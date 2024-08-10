@@ -7,13 +7,6 @@ const products = [
     image: "https://plus.unsplash.com/premium_photo-1705169612592-32610774a5d0?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hhaXJ8ZW58MHx8MHx8fDA%3D",
   },
   {
-    id: "5csckbkbk05a-997e-4534-97b8-f6f7862f3737",
-    name: "Yellow Chair",
-    headline: "Jelly like surface",
-    price: "15000",
-    image: "https://plus.unsplash.com/premium_photo-1705169612592-32610774a5d0?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hhaXJ8ZW58MHx8MHx8fDA%3D",
-  },
-  {
     id: "67aadbfe-a6d9-4d8d-a436-27c369cff5ff",
     name: "White Chair",
     headline: "Soft like cloud",
@@ -36,13 +29,6 @@ const products = [
   },
   {
     id: "a3025e01-e142-2275-8124-e95822ckk1f9",
-    name: "Pink Chair",
-    headline: "Soft and Comfortable",
-    price: "23000",
-    image: "https://plus.unsplash.com/premium_photo-1690971631360-c7b4f08b4f94?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2hhaXJ8ZW58MHx8MHx8fDA%3D",
-  },
-  {
-    id: "a302dcbjdbckckadbjn142-2275-8124-e95822ckk1f9",
     name: "Pink Chair",
     headline: "Soft and Comfortable",
     price: "23000",
